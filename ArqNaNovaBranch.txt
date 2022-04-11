@@ -1,0 +1,4 @@
+Arquivo criado na branch: NovaBranch
+esta é a aula de branch
+aprendo salvar de uma só vez
+o comando é :wq (vamos testar ?!)
