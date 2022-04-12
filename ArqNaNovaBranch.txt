@@ -2,3 +2,6 @@ Arquivo criado na branch: NovaBranch
 esta é a aula de branch
 aprendo salvar de uma só vez
 o comando é :wq (vamos testar ?!)
+
+Agora eu estou editando este arquivo na Branch Master
+
